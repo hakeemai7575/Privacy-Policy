@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Privacy Policy</title>
+    <h1>Privacy Policy</h1>
 </head>
 <body>
     <h1>Privacy Policy</h1>
